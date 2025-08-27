@@ -3,7 +3,7 @@
 Repositorio para las prácticas de la asignatura [Programación II] contiene prácticas en Java y quiza Python.
 
 ## Estructura de prácticas
-|    Práctica 1.  ejercicio 1 | Lenguaje | 
+|    Práctica 1.  ejercicio 2 | Lenguaje | 
 |-----------------------------|----------|
 | [practica-1](./practica-1/) | Java     |  
 
@@ -14,14 +14,13 @@ Repositorio para las prácticas de la asignatura [Programación II] contiene práct
 - NetBeans IDE
 - Git
 
-## ?? Cómo ejecutar
+## Cómo ejecutar
 clonar el proyecto en netbeans o eclipse
-## ????? Autor
-
+## Autor
 Nombre: Peredo Mamani Devon Richard
 Carrera: Informatica
 Universidad: Mayor de San Andres
 
-## ?? Licencia
+## Licencia
 
 Este proyecto es con fines educativos.
